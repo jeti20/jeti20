@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michal</h1>
-<h3 align="center">the IT guy</h3>
+<h3 align="center">The IT guy</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
