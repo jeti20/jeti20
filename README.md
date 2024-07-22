@@ -12,11 +12,11 @@
 
 ### GameDev
 
-- **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map))**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
+- **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
 - **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: VR survival game, unfinished
 - **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas)**: A game in which you have to collect sweets and escape from growing snowballsVR survival game, unfinished
-- **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view.
-- **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon test game
+- **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagram
+- **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon test game + GDD
 - **[TaxiExercise](https://github.com/jeti20/TaxiExercise)**: Taxi driver game
 - **[SpaceScraperVR](https://github.com/jeti20/SpaceScraper)**: VR game on space ship
 - **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
