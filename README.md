@@ -19,6 +19,9 @@
 
 - **[QA Repository](https://github.com/jeti20/QA-Repository)**: example of found bugs with descriptions
 
+### Play tests
+- **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)**
+
 ### GameDev
 
 - **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
