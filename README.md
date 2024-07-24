@@ -12,7 +12,7 @@
 
 ### QA
 
-- **[QA Repository](https://github.com/jeti20/QA-Repository/blob/main/README.)**: example of found bugs with descriptions
+- **[QA Repository](https://github.com/jeti20/QA-Repository)**: example of found bugs with descriptions
 
 ### GameDev
 
