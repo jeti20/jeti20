@@ -10,6 +10,10 @@
 
 ## Projects
 
+### QA
+
+- **[QA Repository](https://github.com/jeti20/QA-Repository/blob/main/README.)**: example of found bugs with descriptions
+
 ### GameDev
 
 - **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
@@ -23,7 +27,7 @@
 - **[HorrorGame](https://github.com/jeti20/HorrorGame)**: horror game based on some tutorial
 - **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
   
-### Monitoring
+### IT/Monitoring/DevOps
 
 - **[Prometheus-Gmail-Website](https://github.com/jeti20/Prometheus-Gmail-Website)**: Monitoring system checking if website or Ngeinx service is down. If it is down, then notify via gmail.
 - **[TerraformInfrastructure](https://github.com/yourusername/TerraformInfrastructure)**: A project demonstrating the use of Terraform for provisioning and managing cloud infrastructure.
