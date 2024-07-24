@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michal</h1>
-<h3 align="center">The IT guy</h3>
+
+<p align="center">
+  <img width="300" height="150" src="https://github.com/jeti20/jeti20/blob/main/Media/2.PNG">
+</p>
+  
+<h3 align="center">The IT guy</h3></h3>
 
 <p align="left">
 </p>
