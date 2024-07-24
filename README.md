@@ -32,7 +32,7 @@
 - **[HorrorGame](https://github.com/jeti20/HorrorGame)**: horror game based on some tutorial
 - **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
   
-### IT/Monitoring/DevOps
+### IT admin/Monitoring/DevOps
 
 - **[Prometheus-Gmail-Website](https://github.com/jeti20/Prometheus-Gmail-Website)**: Monitoring system checking if website or Ngeinx service is down. If it is down, then notify via gmail.
 - **[TerraformInfrastructure](https://github.com/yourusername/TerraformInfrastructure)**: A project demonstrating the use of Terraform for provisioning and managing cloud infrastructure.
