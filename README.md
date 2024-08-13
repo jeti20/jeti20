@@ -17,6 +17,7 @@
 
 ### QA
 
+- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as QA
 - **[QA Repository](https://github.com/jeti20/QA-Repository)**: example of found bugs with descriptions
 
 ### Play tests
