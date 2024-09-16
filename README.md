@@ -31,9 +31,20 @@
 
 ## Projects
 
-### QA Manual Testing
+### QA - Manual Testing
 
 - **[Empik - EmpikFoto - QA Manual Testing](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
+
+
+### Automated testing
+
+### QA - GameDev
+
+- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Tester/QA
+- **[QA Repository](https://github.com/jeti20/QA-Repository)**: example of found bugs with descriptions
+
+#### Play tests
+- **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)**
   
 ### IT admin/Monitoring/DevOps
 
@@ -42,14 +53,6 @@
 - **[Grafana-AWS](https://github.com/jeti20/Grafana-AWS)**: how to create Grafana on AWS EC2 Instance
 - **[Loki---Promtail---Grafana](https://github.com/jeti20/Grafana--Loki--Promtail)**: Monitoring of 2 EC2 Instances by Promtail/Locki/Grafana
 - **[TelegrafAgent-InfluxDB-Grafana](https://github.com/jeti20/Grafana-InfluxDB-Telegraf-Docker)**: Created an example monitoring using EC2 instances on AWS and Telegraf Agent. On Docker.
-
-### QA - GameDev
-
-- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as QA
-- **[QA Repository](https://github.com/jeti20/QA-Repository)**: example of found bugs with descriptions
-
-#### Play tests
-- **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)**
 
 ### GameDev
 
