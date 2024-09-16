@@ -60,10 +60,10 @@
 ### IT admin/Monitoring/DevOps
 
 - **[Prometheus-Gmail-Website](https://github.com/jeti20/Prometheus-Gmail-Website)**: Monitoring system checking if website or Ngeinx service is down. If it is down, then notify via gmail.
-- **[TerraformInfrastructure](https://github.com/yourusername/TerraformInfrastructure)**: A project demonstrating the use of Terraform for provisioning and managing cloud infrastructure.
 - **[Grafana-AWS](https://github.com/jeti20/Grafana-AWS)**: how to create Grafana on AWS EC2 Instance
 - **[Loki---Promtail---Grafana](https://github.com/jeti20/Grafana--Loki--Promtail)**: Monitoring of 2 EC2 Instances by Promtail/Locki/Grafana
 - **[TelegrafAgent-InfluxDB-Grafana](https://github.com/jeti20/Grafana-InfluxDB-Telegraf-Docker)**: Created an example monitoring using EC2 instances on AWS and Telegraf Agent. On Docker.
+- **[DevOps Project](https://github.com/jeti20/DevOpsProject)**: DevOps project - in progress...
 
 ### GameDev
 
