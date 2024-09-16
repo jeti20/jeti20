@@ -40,8 +40,19 @@
 
 ### QA - GameDev
 
-- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Tester/QA
-- **[QA Repository](https://github.com/jeti20/QA-Repository)**: example of found bugs with descriptions
+- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Tester/QA at "The Rat Project" studio
+
+- **[HeartWood Online](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g300e42ec75a_0_0)**
+  
+- **[Spirit Detective](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g14931db543e_0_0)**
+  
+- **[Nomori: Prologue](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g1490af91ad1_0_0)**
+  
+- **[Pocket Diger](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e4e39efba_0_1)**
+
+- **[Tiny Titans - AFK Auto Battles](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e839edf94_0_7)**
+
+
 
 #### Play tests
 - **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)**
