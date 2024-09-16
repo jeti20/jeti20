@@ -33,7 +33,7 @@
 
 ### QA Manual Testing
 
-- **[Empik - EmpikFoto - QA Manual Testing](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Mistwood.md)**
+- **[Empik - EmpikFoto - QA Manual Testing](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
   
 ### IT admin/Monitoring/DevOps
 
