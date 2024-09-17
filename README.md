@@ -33,8 +33,8 @@
 
 ### QA - Manual Testing
 
-- **[Empik - EmpikFoto - QA Manual Testing](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
-
+- **[Manual Testing - Empik - EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
+- **[REST API - Postman - Trello](https://github.com/jeti20/QA-Manual-Testing/blob/main/Postman%20-%20Trello.md)**
 
 ### Automated testing
 
