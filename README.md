@@ -55,7 +55,7 @@
 
 
 #### Play tests
-- **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)**
+- **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)** - VR
   
 ### IT admin/Monitoring/DevOps
 
