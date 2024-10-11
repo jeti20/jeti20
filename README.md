@@ -37,6 +37,8 @@
 - **[REST API - Postman - Trello](https://github.com/jeti20/QA-Manual-Testing/blob/main/Postman%20-%20Trello.md)**
 
 ### Automated testing
+- **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
+
 
 ### QA - GameDev
 
