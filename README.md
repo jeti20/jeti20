@@ -37,9 +37,9 @@
 - **[REST API - Postman - Trello](https://github.com/jeti20/QA-Manual-Testing/blob/main/Postman%20-%20Trello.md)**
 
 ### Automated testing
+- **[Integrating Postman API tests with Jenkin](https://github.com/jeti20/Integrating-Postman-API-tests-with-Jenkins)**
 - **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
-
-
+- 
 ### QA - GameDev
 
 - **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Tester/QA at "The Rat Project" studio
