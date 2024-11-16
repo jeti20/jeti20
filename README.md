@@ -31,6 +31,19 @@
 
 ## Projects
 
+### GameDev
+
+- **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
+- **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
+- **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas)**: A game in which you have to collect sweets and escape from growing snowballs
+- **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagram
+- **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon test game + GDD
+- **[TaxiExercise](https://github.com/jeti20/TaxiExercise)**: Taxi driver game
+- **[SpaceScraperVR](https://github.com/jeti20/SpaceScraper)**: VR game on space ship
+- **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
+- **[HorrorGame](https://github.com/jeti20/HorrorGame)**: horror game based on some tutorial
+- **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
+
 ### QA - Manual Testing
 
 - **[Manual Testing - Empik - EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
@@ -55,8 +68,7 @@
 - **[Pocket Diger](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e4e39efba_0_1)**
 
 - **[Tiny Titans - AFK Auto Battles](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e839edf94_0_7)**
-
-
+- 
 
 #### Play tests
 - **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)** - VR
@@ -69,17 +81,6 @@
 - **[TelegrafAgent-InfluxDB-Grafana](https://github.com/jeti20/Grafana-InfluxDB-Telegraf-Docker)**: Created an example monitoring using EC2 instances on AWS and Telegraf Agent. On Docker.
 - **[DevOps Project](https://github.com/jeti20/DevOpsProject)**: DevOps project - in progress...
 
-### GameDev
 
-- **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
-- **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
-- **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas)**: A game in which you have to collect sweets and escape from growing snowballs
-- **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagram
-- **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon test game + GDD
-- **[TaxiExercise](https://github.com/jeti20/TaxiExercise)**: Taxi driver game
-- **[SpaceScraperVR](https://github.com/jeti20/SpaceScraper)**: VR game on space ship
-- **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
-- **[HorrorGame](https://github.com/jeti20/HorrorGame)**: horror game based on some tutorial
-- **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
   
 
