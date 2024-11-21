@@ -33,6 +33,7 @@
 
 ### GameDev
 
+- **[StrategyGame](https://github.com/jeti20/StrategyGame)**: A turn-based game involving controlling selected units and killing enemies - in progress
 - **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
 - **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
 - **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas)**: A game in which you have to collect sweets and escape from growing snowballs
