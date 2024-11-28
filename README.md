@@ -31,6 +31,9 @@
 
 ## Projects
 
+### Itch.io
+**https://dehydrogenase.itch.io/**
+
 ### GameDev
 
 - **[StrategyGame](https://github.com/jeti20/StrategyGame)**: A turn-based game involving controlling selected units and killing enemies - in progress
