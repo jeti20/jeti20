@@ -51,7 +51,7 @@
 
 ### QA - GameDev
 
-- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Tester/QA at "The Rat Project" studio
+- **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Unity Generalist/QA/Designer at "The Rat Project" studio
 
 - **[HeartWood Online](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g300e42ec75a_0_0)**
   
