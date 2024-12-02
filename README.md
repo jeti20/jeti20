@@ -49,18 +49,6 @@
 - **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
 - **[HorrorGame](https://github.com/jeti20/HorrorGame)**: horror game based on some tutorial
 
-
-### QA - Manual Testing
-
-- **[Manual Testing - Empik - EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
-- **[REST API - Postman - Trello](https://github.com/jeti20/QA-Manual-Testing/blob/main/Postman%20-%20Trello.md)**
-
-### Automated testing
-- **[Integrating Postman API tests with Jenkin](https://github.com/jeti20/Integrating-Postman-API-tests-with-Jenkins)**
-- **[Grafana Provisioning - Creating alerts automation](https://github.com/jeti20/Grafana-Provisioning---Creating-alerts-automation)**
-- **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
-
-  
 ### QA - GameDev
 
 - **[Magin: The Rat Project Stories](https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/)** - The game I worked on as Tester/QA at "The Rat Project" studio
@@ -74,10 +62,21 @@
 - **[Pocket Diger](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e4e39efba_0_1)**
 
 - **[Tiny Titans - AFK Auto Battles](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e839edf94_0_7)**
-- 
 
-#### Play tests
+
+#### Play Tests
 - **[Snow Wars](https://www.meta.com/pl-pl/experiences/4886562978130328/)** - VR
+- **[WORKSHOP SIMULATOR VR](https://www.meta.com/pl-pl/experiences/workshop-simulator-vr/6305468796151199/)** - VR
+
+### QA - Manual Testing
+
+- **[Manual Testing - Empik - EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
+- **[REST API - Postman - Trello](https://github.com/jeti20/QA-Manual-Testing/blob/main/Postman%20-%20Trello.md)**
+
+### Automated testing
+- **[Integrating Postman API tests with Jenkin](https://github.com/jeti20/Integrating-Postman-API-tests-with-Jenkins)**
+- **[Grafana Provisioning - Creating alerts automation](https://github.com/jeti20/Grafana-Provisioning---Creating-alerts-automation)**
+- **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
   
 ### IT admin/Monitoring/DevOps
 
