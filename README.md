@@ -37,7 +37,7 @@
 ### GameDev
 
 - **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
-- **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas)**: A game in which you have to collect sweets and escape from growing snowballs
+- **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas-Remastered)**: A game in which you have to collect sweets and escape from growing snowballs
 - **[SurvivalGame](https://github.com/jeti20/SurvivalGame)**: VR survival game - in progress
 - **[StrategyGame](https://github.com/jeti20/StrategyGame)**: A turn-based game involving controlling selected units and killing enemies - in progress
 - **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
