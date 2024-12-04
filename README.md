@@ -38,15 +38,16 @@
 
 - **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
 - **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas-Remastered)**: A game in which you have to collect sweets and escape from growing snowballs
+- **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
+- **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon game level + GDD
+- **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagra.
 - **[SurvivalGame](https://github.com/jeti20/SurvivalGame)**: VR survival game - in progress
 - **[StrategyGame](https://github.com/jeti20/StrategyGame)**: A turn-based game involving controlling selected units and killing enemies - in progress
 - **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
 - **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
-- **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagram
-- **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon test game + GDD
 - **[TaxiExercise](https://github.com/jeti20/TaxiExercise)**: Taxi driver game
 - **[SpaceScraperVR](https://github.com/jeti20/SpaceScraper)**: VR game on space ship
-- **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
+
 - **[HorrorGame](https://github.com/jeti20/HorrorGame)**: horror game based on some tutorial
 
 ### QA - GameDev
