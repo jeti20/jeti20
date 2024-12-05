@@ -37,7 +37,7 @@
 ### GameDev
 
 - **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
-- **[SweetToothChristmas](https://github.com/jeti20/SweetToothChristmas-Remastered)**: A game in which you have to collect sweets and escape from growing snowballs
+- **[SweetToothChristmas-Remastered](https://github.com/jeti20/SweetToothChristmas-Remastered)**: A game in which you have to collect sweets and escape from growing snowballs
 - **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
 - **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon game level + GDD
 - **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagra.
