@@ -36,14 +36,14 @@
 
 ### GameDev
 
+- **[SurvivalGame](https://github.com/jeti20/SurvivalGame)**: Survival game with many mechanics- building, inventory, gathering resources, notifications, enemys
+- **[Space-Rocket](https://github.com/jeti20/Space-Rocket)**:a game about precise control and maneuvering of the ship between obstacles
 - **[GloomyMemoryPaintings](https://github.com/jeti20/GloomyMemoryPaintings)**: Memory game
 - **[Santa Saving Christmas](https://github.com/jeti20/Santa-Saving-Christmas)**: A platform game in which you have to collect gifts, avoid enemies and reach the Christmas tree.
 - **[SweetToothChristmas Remastered](https://github.com/jeti20/SweetToothChristmas-Remastered)**: A game in which you have to collect sweets and escape from growing snowballs
-- **[Space-Rocket](https://github.com/jeti20/Space-Rocket)**:a game about precise control and maneuvering of the ship between obstacles
 - **[ShooterVR](https://github.com/jeti20/VR-Shooter)**: VR game in which you shoot at a target to score points
 - **[DungeonVR](https://github.com/jeti20/DungeonVR)**: VR dungeon game level + GDD
 - **[3DSelectingAndMovement](https://github.com/jeti20/3DSelectingAndMovement)**: Presentation of the system for selecting and moving around the map with an isometric view + class diagra.
-- **[SurvivalGame](https://github.com/jeti20/SurvivalGame)**: Survival game with many mechanics- building, inventory, gathering resources, notifications, enemys - in progress (almost finished)
 - **[StrategyGame](https://github.com/jeti20/StrategyGame)**: A turn-based game involving controlling selected units and killing enemies - in progress
 - **[SurvivalVR](https://github.com/jeti20/SurvivalVR)**: VR survival game, unfinished
 - **[RandomWalkDungeonGenerator](https://github.com/jeti20/Procedural-Generation-of-2D-map)**: A Unity project that generates dungeon layouts using a simple random walk algorithm.
