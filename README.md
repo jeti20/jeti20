@@ -31,6 +31,15 @@
 
 ## Projects
 
+### IT admin/Monitoring/DevOps
+
+- **[Server-Performance-Stats](https://github.com/jeti20/Server-Performance-Stats/blob/main/README.md)** - Bash script is designed to run on any Linux-based system and provides essential server performance statistics upon execution.
+- **[Prometheus-Gmail-Website](https://github.com/jeti20/Prometheus-Gmail-Website)**: Monitoring system checking if website or Ngeinx service is down. If it is down, then notify via gmail.
+- **[Grafana-AWS](https://github.com/jeti20/Grafana-AWS)**: how to create Grafana on AWS EC2 Instance
+- **[Loki---Promtail---Grafana](https://github.com/jeti20/Grafana--Loki--Promtail)**: Monitoring of 2 EC2 Instances by Promtail/Locki/Grafana
+- **[TelegrafAgent-InfluxDB-Grafana](https://github.com/jeti20/Grafana-InfluxDB-Telegraf-Docker)**: Created an example monitoring using EC2 instances on AWS and Telegraf Agent. On Docker.
+- **[DevOps Project](https://github.com/jeti20/DevOpsProject)**: DevOps project - in progress...
+
 ### Itch.io
 **https://dehydrogenase.itch.io/**
 
@@ -81,13 +90,7 @@
 - **[Grafana Provisioning - Creating alerts automation](https://github.com/jeti20/Grafana-Provisioning---Creating-alerts-automation)**
 - **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
   
-### IT admin/Monitoring/DevOps
 
-- **[Prometheus-Gmail-Website](https://github.com/jeti20/Prometheus-Gmail-Website)**: Monitoring system checking if website or Ngeinx service is down. If it is down, then notify via gmail.
-- **[Grafana-AWS](https://github.com/jeti20/Grafana-AWS)**: how to create Grafana on AWS EC2 Instance
-- **[Loki---Promtail---Grafana](https://github.com/jeti20/Grafana--Loki--Promtail)**: Monitoring of 2 EC2 Instances by Promtail/Locki/Grafana
-- **[TelegrafAgent-InfluxDB-Grafana](https://github.com/jeti20/Grafana-InfluxDB-Telegraf-Docker)**: Created an example monitoring using EC2 instances on AWS and Telegraf Agent. On Docker.
-- **[DevOps Project](https://github.com/jeti20/DevOpsProject)**: DevOps project - in progress...
 
 
   
