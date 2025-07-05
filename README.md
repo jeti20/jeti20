@@ -40,6 +40,11 @@
 - **[TelegrafAgent-InfluxDB-Grafana](https://github.com/jeti20/Grafana-InfluxDB-Telegraf-Docker)**: Created an example monitoring using EC2 instances on AWS and Telegraf Agent. On Docker.
 - **[DevOps Project](https://github.com/jeti20/DevOpsProject)**: DevOps project - in progress...
 
+### Automation
+- **[Integrating Postman API tests with Jenkin](https://github.com/jeti20/Integrating-Postman-API-tests-with-Jenkins)**
+- **[Grafana Provisioning - Creating alerts automation](https://github.com/jeti20/Grafana-Provisioning---Creating-alerts-automation)**
+- **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
+
 ### Itch.io
 **https://dehydrogenase.itch.io/**
 
@@ -85,10 +90,7 @@
 - **[Manual Testing - Empik - EmpikFoto](https://github.com/jeti20/QA-Manual-Testing/blob/main/QA%20Manual%20Testing%20-%20Empik-EmpikFoto.md)**
 - **[REST API - Postman - Trello](https://github.com/jeti20/QA-Manual-Testing/blob/main/Postman%20-%20Trello.md)**
 
-### Automated testing
-- **[Integrating Postman API tests with Jenkin](https://github.com/jeti20/Integrating-Postman-API-tests-with-Jenkins)**
-- **[Grafana Provisioning - Creating alerts automation](https://github.com/jeti20/Grafana-Provisioning---Creating-alerts-automation)**
-- **[Newman](https://github.com/jeti20/Newman/blob/main/README.md)**
+
   
 
 
