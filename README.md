@@ -32,7 +32,7 @@
 ## Projects
 
 ### IT admin/Monitoring/DevOps
-
+- **[Basic-VM-AWS-Monitoring-Ansible](https://github.com/jeti20/Basic-VM-AWS-Monitoring-Ansible/blob/main/README.md)** - EC2, Ansible (dynamic inventory, SSH key propagation, basic monitoring, sending emails with VM status reports)
 - **[Server-Performance-Stats](https://github.com/jeti20/Server-Performance-Stats/blob/main/README.md)** - Bash script is designed to run on any Linux-based system and provides essential server performance statistics upon execution.
 - **[Prometheus-Gmail-Website](https://github.com/jeti20/Prometheus-Gmail-Website)**: Monitoring system checking if website or Ngeinx service is down. If it is down, then notify via gmail.
 - **[Grafana-AWS](https://github.com/jeti20/Grafana-AWS)**: how to create Grafana on AWS EC2 Instance
